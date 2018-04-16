@@ -1,0 +1,13 @@
+C:\XamStudioProjects\TodoXamApp\TodoXamApp\TodoXamApp\bin\Debug\netstandard2.0\TodoXamApp.deps.json
+C:\XamStudioProjects\TodoXamApp\TodoXamApp\TodoXamApp\bin\Debug\netstandard2.0\TodoXamApp.dll
+C:\XamStudioProjects\TodoXamApp\TodoXamApp\TodoXamApp\bin\Debug\netstandard2.0\TodoXamApp.pdb
+C:\XamStudioProjects\TodoXamApp\TodoXamApp\TodoXamApp\obj\Debug\netstandard2.0\TodoXamApp.csprojResolveAssemblyReference.cache
+C:\XamStudioProjects\TodoXamApp\TodoXamApp\TodoXamApp\obj\Debug\netstandard2.0\TodoXamApp.csproj.CoreCompileInputs.cache
+C:\XamStudioProjects\TodoXamApp\TodoXamApp\TodoXamApp\obj\Debug\netstandard2.0\TodoXamApp.App.xaml.g.cs
+C:\XamStudioProjects\TodoXamApp\TodoXamApp\TodoXamApp\obj\Debug\netstandard2.0\TodoXamApp.Views.AddTodoPage.xaml.g.cs
+C:\XamStudioProjects\TodoXamApp\TodoXamApp\TodoXamApp\obj\Debug\netstandard2.0\TodoXamApp.Views.EditTodoPage.xaml.g.cs
+C:\XamStudioProjects\TodoXamApp\TodoXamApp\TodoXamApp\obj\Debug\netstandard2.0\TodoXamApp.Views.MainPage.xaml.g.cs
+C:\XamStudioProjects\TodoXamApp\TodoXamApp\TodoXamApp\obj\Debug\netstandard2.0\TodoXamApp.AssemblyInfoInputs.cache
+C:\XamStudioProjects\TodoXamApp\TodoXamApp\TodoXamApp\obj\Debug\netstandard2.0\TodoXamApp.AssemblyInfo.cs
+C:\XamStudioProjects\TodoXamApp\TodoXamApp\TodoXamApp\obj\Debug\netstandard2.0\TodoXamApp.dll
+C:\XamStudioProjects\TodoXamApp\TodoXamApp\TodoXamApp\obj\Debug\netstandard2.0\TodoXamApp.pdb
